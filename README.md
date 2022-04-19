@@ -2,7 +2,7 @@
 
 Fields of a Gaussian beam beyond the paraxial approximation
 
-Original authors: T. G. Blackburn, A. Ilderton, C. D. Murphy, and M. Marklund
+Original authors: Y. I. Salamin
 
 (Partially) reproduced by: Óscar Amaro
 
